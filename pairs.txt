@@ -1,0 +1,4 @@
+medic : medical test
+mediscal : medical
+health : medical
+healthcare : medical_yeah

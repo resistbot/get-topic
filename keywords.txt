@@ -1,0 +1,4 @@
+prescription
+doctor
+health*
+medic*
